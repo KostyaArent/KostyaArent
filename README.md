@@ -1,4 +1,4 @@
-Hi 👋 My name is Konstantin Trepalin
+Hi 👋 My name is Konstantin
 ====================================
 
 Web Developer
