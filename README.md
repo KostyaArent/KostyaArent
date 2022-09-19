@@ -8,7 +8,7 @@ I've been learning to code for 2 years, after switching careers. I started with 
 
 * 🌍  I'm based in Kazan
 * ✉️  You can contact me at [trepalin.konstantin@gmail.com](mailto:trepalin.konstantin@gmail.com)
-* 🧠  I'm learning Django
+* 🧠  I'm Python backend developer
 * 🤝  I'm open to collaborating on interesting web projects
 
 ### Skills
