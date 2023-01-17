@@ -7,7 +7,7 @@ Web Developer
 I've been learning to code for 2 years, after switching careers. I started with pure Python, but have realy found a passion for backend
 
 * 🌍  I'm based in Kazan
-* ✉️  You can contact me at [trepalin.konstantin@gmail.com](mailto:trepalin.konstantin@gmail.com)
+* ✉️  You can contact me at [katrepalin@yandex.ru](mailto:katrepalin@yandex.ru)
 * 🧠  I'm Python backend developer
 * 🤝  I'm open to collaborating on interesting web projects
 
