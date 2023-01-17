@@ -29,6 +29,3 @@ I've been learning to code for 2 years, after switching careers. I started with 
 
 <p align="left"> <a href="https://www.facebook.com/trepalin.konstantin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/KostyaArent" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a></p>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/trepalinkon"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
